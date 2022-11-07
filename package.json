@@ -1,4 +1,8 @@
 {
   "name": "@jych/node-examples",
-  "packageManager": "yarn@3.2.4"
+  "name": "@jych/node-terraform-registry",
+  "packageManager": "yarn@3.2.4",
+  "engines": {
+    "node": ">=16"
+  }
 }

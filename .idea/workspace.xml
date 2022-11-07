@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb3875c1-cb95-4e90-8288-a0ad903bf5d7" name="Changes" comment="sqsh init">
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,7 @@
       <updated>1667785342810</updated>
       <workItem from="1667785346141" duration="6001000" />
       <workItem from="1667917727056" duration="4614000" />
-      <workItem from="1667926875302" duration="131000" />
+      <workItem from="1667926875302" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="chore: configure typescript for outputting ESM to node 16">
       <created>1667785859810</created>

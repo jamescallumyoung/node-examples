@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb3875c1-cb95-4e90-8288-a0ad903bf5d7" name="Changes" comment="sqsh init">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2HCNwG6OGcbpyhhqKI9vYfTkgi0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jamesyoung/Repos/node-terraform-registry&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/jamesyoung/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/222.3345.108/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build-cjs" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-cjs" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build-esm" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-esm" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build-esm" />
+        <item itemvalue="npm.build-cjs" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3875c1-cb95-4e90-8288-a0ad903bf5d7" name="Changes" comment="" />
+      <created>1667785342810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667785342810</updated>
+      <workItem from="1667785346141" duration="6001000" />
+      <workItem from="1667917727056" duration="4614000" />
+      <workItem from="1667926875302" duration="131000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: configure typescript for outputting ESM to node 16">
+      <created>1667785859810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667785859810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: configure typescript to use &quot;NodeNext&quot; module option">
+      <created>1667786088685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667786088685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: configure typescript source and output directories">
+      <created>1667786189040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667786189040</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: update typescript config for outputting an ESM package">
+      <created>1667789265589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789265589</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat add library entry point">
+      <created>1667789396645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789396645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore: set library export paths">
+      <created>1667789413965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789413965</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sqsh w main.ts">
+      <created>1667789541919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789541919</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore: add build command">
+      <created>1667789561064</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789561064</updated>
+    </task>
+    <task id="LOCAL-00009" summary="sqsh w tsconf">
+      <created>1667789571196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789571196</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sqsh w tsconf 2">
+      <created>1667789595523</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789595523</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chore: add typescript config for compiling to CommonJS">
+      <created>1667790721255</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667790721255</updated>
+    </task>
+    <task id="LOCAL-00012" summary="docs: update README for branch">
+      <created>1667922945157</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922945157</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: add application entry point">
+      <created>1667925160209</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667925160209</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chore: add build script">
+      <created>1667925177524</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667925177524</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chore: enable tsc's importHelpers with tslib">
+      <created>1667925730257</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667925730257</updated>
+    </task>
+    <task id="LOCAL-00016" summary="docs: update README for branch">
+      <created>1667926111533</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667926111533</updated>
+    </task>
+    <task id="LOCAL-00017" summary="sqsh init">
+      <created>1667926154476</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667926154476</updated>
+    </task>
+    <task id="LOCAL-00018" summary="sqsh init">
+      <created>1667926600530</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667926600530</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: configure typescript for outputting ESM to node 16" />
+    <MESSAGE value="chore: configure typescript to use &quot;NodeNext&quot; module option" />
+    <MESSAGE value="chore: configure typescript source and output directories" />
+    <MESSAGE value="chore: update typescript config for outputting an ESM package" />
+    <MESSAGE value="feat add library entry point" />
+    <MESSAGE value="chore: set library export paths" />
+    <MESSAGE value="sqsh w main.ts" />
+    <MESSAGE value="chore: add build command" />
+    <MESSAGE value="sqsh w tsconf" />
+    <MESSAGE value="sqsh w tsconf 2" />
+    <MESSAGE value="chore: add typescript config for compiling to CommonJS" />
+    <MESSAGE value="feat: add application entry point" />
+    <MESSAGE value="chore: add build script" />
+    <MESSAGE value="chore: enable tsc's importHelpers with tslib" />
+    <MESSAGE value="docs: update README for branch" />
+    <MESSAGE value="sqsh init" />
+    <option name="LAST_COMMIT_MESSAGE" value="sqsh init" />
+  </component>
+</project>

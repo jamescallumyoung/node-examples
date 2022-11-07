@@ -4,5 +4,8 @@
   "packageManager": "yarn@3.2.4",
   "engines": {
     "node": ">=16"
+  },
+  "scripts": {
+    "preinstall": "npx only-allow yarn"
   }
 }

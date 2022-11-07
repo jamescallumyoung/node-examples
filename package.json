@@ -7,5 +7,8 @@
   },
   "scripts": {
     "preinstall": "npx only-allow yarn"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
   }
 }

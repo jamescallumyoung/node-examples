@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    /* For brevity, unchanged fields are omitted. */
+
+    /* Modules */
+    "module": "CommonJS",                                /* Specify what module code is generated. */
+
+    /* Emit */
+    "declaration": false,                                /* Generate .d.ts files from TypeScript and JavaScript files in your project. */
+    "outDir": "./dist/cjs",                              /* Specify an output folder for all emitted files. */
+    "declarationDir": null,                              /* Specify the output directory for generated declaration files. */
+  }
+}

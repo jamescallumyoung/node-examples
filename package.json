@@ -13,7 +13,9 @@
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "yarn run build-esm && yarn run build-cjs",
+    "build-esm": "tsc -p ./tsconfig.json",
+    "build-cjs": "tsc -p ./tsconfig-commonjs.json",
     "preinstall": "npx only-allow yarn"
   },
   "devDependencies": {

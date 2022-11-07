@@ -6,6 +6,12 @@
     "node": ">=16"
   },
   "type": "module",
+  "exports": {
+    ".": {
+      "default": "./dist/esm/main.js",
+      "types": "./dist/types/main.d.ts"
+    }
+  },
   "scripts": {
     "preinstall": "npx only-allow yarn"
   },

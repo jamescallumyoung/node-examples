@@ -6,6 +6,7 @@
     "node": ">=16"
   },
   "type": "module",
+  "main": "dist/main.js",
   "scripts": {
     "preinstall": "npx only-allow yarn"
   },

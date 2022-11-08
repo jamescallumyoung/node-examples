@@ -2,18 +2,28 @@
 
 This repo includes examples of how to configure a Node.js library or application, with up-to-date options and best compatibility.
 
-Each example targets Node.js v16 (a.k.a gallium) as that is the latest LTS release.
+## ESM Library
 
-## Examples:
+This branch includes the example for creating a library with support for ESM.
 
-### Base
+## Features
 
-The `init` branch establishes best practices and provides configuration that other branches extend. It provides a good example of the base configuration required for a modern Node.js package.
+- modern `yarn`: version >=3.2
+- Yarn plug and play enabled
+- TypeScript
+- Emitted JS is ES2021
+- ESM modules, not CommonJS or older
+- Minimum Node version >=16 (lts/gallium)
+- NVM .nvmrc file provided
 
-### ESM Library
+## Non-Features
 
-The `library-esm` branch contains an example setup for a Node.js library that is exported as an ESM module, using modern JS syntax. TypeScript types are shipped alongside.
+- no linting or code formatting
+- no publish command
 
-### ESM Library & CommonJS Library
+## Next steps
 
-The `library-esm-and-cjs` branch extends the `library-esm` branch by adding an example setup for shipping CommonJS alongside the existing ESM code and TS declarations.
+You may want to add linting, formatting, and publishing to the project.
+
+You may also want to add `tslib` and set `importHelpers: true` in `tsconfig.json`. This can reduce code duplication in
+the build output in some cases.

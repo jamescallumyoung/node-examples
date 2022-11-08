@@ -8,6 +8,7 @@
   "type": "module",
   "main": "dist/main.js",
   "scripts": {
+    "build": "tsc",
     "preinstall": "npx only-allow yarn"
   },
   "devDependencies": {
